@@ -4,10 +4,11 @@ System Design Learnings
 Daily Learnings from Books and Blogs related System Design
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
 - [DB & Storage Engines](#db--storage-engines)
-  - [MyRocks: A space- and write-optimized MySQL database](#myrocks-a-space--and-write-optimized-mysql-database)
+    - [MyRocks: A space- and write-optimized MySQL database](#myrocks-a-space--and-write-optimized-mysql-database)
+    - [zippydb](#zippydb)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
