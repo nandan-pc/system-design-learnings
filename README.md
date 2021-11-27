@@ -21,6 +21,8 @@ Daily Learnings from Books and Blogs related System Design
     * Cons: 
       - space and [write amplification](https://www.ontrack.com/en-us/blog/what-is-write-amplification-wa-and-how-does-it-effect-ssds) when used with flash storage
 #### [zippydb](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
+## AWS
+#### [This is My Architecture video series](https://go.aws/3lcQkTm)
   
    
 
