@@ -9,6 +9,8 @@ Daily Learnings from Books and Blogs related System Design
 - [DB & Storage Engines](#db--storage-engines)
     - [MyRocks: A space- and write-optimized MySQL database](#myrocks-a-space--and-write-optimized-mysql-database)
     - [zippydb](#zippydb)
+- [AWS](#aws)
+    - [This is My Architecture video series](#this-is-my-architecture-video-series)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
