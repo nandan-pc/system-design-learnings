@@ -14,6 +14,8 @@ Daily Learnings from Books and Blogs related System Design
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Research Papers
+#### [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
 ## DB & Storage Engines
 #### [MyRocks: A space- and write-optimized MySQL database](https://engineering.fb.com/2016/08/31/core-data/myrocks-a-space-and-write-optimized-mysql-database/)
@@ -25,6 +27,7 @@ Daily Learnings from Books and Blogs related System Design
 #### [zippydb](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
 ## AWS
 #### [This is My Architecture video series](https://go.aws/3lcQkTm)
+- Pretty good video series on how Amazon customers use AWS products for their problem.  
   
    
 
