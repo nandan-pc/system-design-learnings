@@ -6,6 +6,8 @@ Daily Learnings from Books and Blogs related System Design
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Research Papers](#research-papers)
+    - [Papers we love](#papers-we-love)
 - [DB & Storage Engines](#db--storage-engines)
     - [MyRocks: A space- and write-optimized MySQL database](#myrocks-a-space--and-write-optimized-mysql-database)
     - [zippydb](#zippydb)
