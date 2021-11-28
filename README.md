@@ -8,6 +8,7 @@ Daily Learnings from Books and Blogs related System Design
 
 - [Research Papers](#research-papers)
     - [Papers we love](#papers-we-love)
+- [Fundamentals of Distributed System](#fundamentals-of-distributed-system)
 - [DB & Storage Engines](#db--storage-engines)
     - [MyRocks: A space- and write-optimized MySQL database](#myrocks-a-space--and-write-optimized-mysql-database)
     - [zippydb](#zippydb)
