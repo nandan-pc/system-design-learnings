@@ -19,6 +19,22 @@ Daily Learnings from Books and Blogs related System Design
 ## Research Papers
 #### [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
+## Fundamentals of Distributed System
+[Fundamental of Distributed System](https://www.baeldung.com/cs/distributed-systems-guide) article gives
+* Basic definition of what is Distributed System and Decentralized System. 
+* Gives general framework of what to focus on when discussing about distributed system i.e. 
+    * Does the system follow primary-secondary or peer-peer architecture ? 
+    * How does data gets partitioned ? 
+    * How does nodes co-ordinate ? 
+* Overview of System explained over above framework
+    * Cassandra
+    * Mongodb
+    * Redis
+    * Kafka 
+* Important concepts
+    * Consistent Hashing for data partitioning 
+    * Gossip protocol for concensus/co-ordination of nodes 
+    
 ## DB & Storage Engines
 #### [MyRocks: A space- and write-optimized MySQL database](https://engineering.fb.com/2016/08/31/core-data/myrocks-a-space-and-write-optimized-mysql-database/)
   * InnoDB: 
